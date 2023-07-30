@@ -17,7 +17,7 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/Abhishek0pandey/CodeClause_Chatbox.git
+git clone https://github.com/Abhishek0pandey/CodeClause_Basic_ChatApplication.git
 ```
 
 Step 2: cd into the cloned repo and run:
